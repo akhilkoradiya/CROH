@@ -1,7 +1,6 @@
 ***CROH - CHECK RESPONSES OF HTTP/HTTPS***
 ```
 This Python script for 40X responses bypassing.
-Methods from #bugbountytips, headers, verb tampering and user agents.
 ```
 
 **Installation:**
